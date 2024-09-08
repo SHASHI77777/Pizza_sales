@@ -147,3 +147,4 @@ from ranked_cte
 where rnk <= 3
 order by category, Revenue desc
 ;
+
